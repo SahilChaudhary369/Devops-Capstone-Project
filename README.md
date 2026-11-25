@@ -1,6 +1,6 @@
 # DevOps Capstone - Task Manager API platform
 
-**Mohit · Roll No. 2301730166 · DevOps and Automation Lab · K.R. Mangalam University**
+**Sahil Chaudhary · Roll No. 2301730193 · DevOps and Automation Lab · K.R. Mangalam University**
 
 An end-to-end DevOps automation platform that takes a Flask + PostgreSQL REST API from **code commit to production on Kubernetes**, with observability, security and recoverability built in.
 
